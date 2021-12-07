@@ -2,7 +2,7 @@
 Handy app for keeping notes using React JS.
 
 
-Clone And Use:
+Clone and Use:
 
   Download or clone the zip file.
 
