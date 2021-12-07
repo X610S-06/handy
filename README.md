@@ -1,8 +1,8 @@
-# handy
+# Handy
 Handy app for keeping notes using React JS.
 
 
-Clone and Use:
+# Clone and Use:
 
   Download or clone the zip file.
 
