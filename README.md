@@ -1,7 +1,7 @@
 # Handy
 This is built to keep all your thoughts, ideas, and priorities at one place using ReactJS.
 
-# Clone and Use:
+# Clone and Use
 
   Open Terminal 
   
