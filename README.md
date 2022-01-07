@@ -1,6 +1,5 @@
 # Handy
-keep all your thoughts, ideas at one place. 
-This is built completely on ReactJS.
+This is built to keep all your thoughts, ideas, and priorities at one place using ReactJS.
 
 # Clone and Use:
 
