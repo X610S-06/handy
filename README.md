@@ -1,17 +1,25 @@
 # Handy
-Handy app for keeping notes using React JS.
-
+keep all your thoughts, ideas at one place. 
+This is built completely on ReactJS.
 
 # Clone and Use:
 
-  Download or clone the zip file.
+  Open Terminal 
+  
+    git clone 'https - copied url'
 
-  Open terminal or Gitbash from the downloaded file location.
+  Change directory  
 
-  To install dependencies.
+    cd 'directory name'
+
+  Open all files on VS code  
+
+    code .
+
+  Install dependencies
 
     npm install
 
-  To open the website locally on your browser.
+  Run the website on localhost
 
     npm start
